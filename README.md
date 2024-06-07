@@ -6,7 +6,7 @@ We aim to achieve this by using a decision tree classifier and optimizing its pe
 > Through systematic preprocessing, model building, and hyperparameter tuning, i have successfully developed a decision tree classifier that achieves 82% accuracy in 
 predicting the survival of passengers on the Titanic. This demonstrates effective handling of both numerical and categorical data.
 
-# Task-2
+# Task-4
 ## Objective
 > The goal of this project is to build a machine learning model that predicts the ratings of movies based on features such as genre, director, and actors. By analyzing historical movie data, we aim to develop a regression model that accurately estimates the rating given to a movie by users or critics.
 ## Result
