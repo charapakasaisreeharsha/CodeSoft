@@ -11,3 +11,7 @@ predicting the survival of passengers on the Titanic. This demonstrates effectiv
 > The goal of this project is to build a machine learning model that predicts the ratings of movies based on features such as genre, director, and actors. By analyzing historical movie data, we aim to develop a regression model that accurately estimates the rating given to a movie by users or critics.
 ## Result
 > Through systematic preprocessing, model building, and evaluation, I have successfully developed a linear regression model that provides a reasonable prediction of movie ratings. The model's performance metrics demonstrate its 92% effectiveness in handling both numerical and categorical data to predict movie ratings accurately.
+
+# Task-5
+## Objective
+> 
