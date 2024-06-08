@@ -17,4 +17,6 @@ predicting the survival of passengers on the Titanic. This demonstrates effectiv
 > The goal is to build a model to detect fraudulent credit card transactions effectively. Using a DecisionTreeClassifier or any classification Algorithm.
 ## Result
 > Through systematic preprocessing, model building, and evaluation, I addressed class imbalance with SMOTE and achieved a 99% accuracy. The model was trained on resampled data and evaluated using precision, recall, and F1-score metrics. The high accuracy indicates a robust performance in identifying fraud.
-### note: In Task-5 i tried implement model with RandomForest but my i dont know why model struck in loop of training, i tried to approach on that issue but it ended up being hardware.
+### any issue:
+> mail: sreeharsha9009@gmail.com
+> linked-in : https://www.linkedin.com/in/sreeharsha9009/
