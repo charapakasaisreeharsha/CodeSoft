@@ -8,7 +8,7 @@ predicting the survival of passengers on the Titanic. This demonstrates effectiv
 
 # Task-4
 ## Objective
-> Sales prediction involves forecasting the amount of a product that
+> The goal is to fulfill the Sales prediction involves forecasting the amount of a product that
 customers will purchase, taking into account various factors such as
 advertising expenditure, target audience segmentation, and
 advertising platform selection.
