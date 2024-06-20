@@ -13,7 +13,7 @@ customers will purchase, taking into account various factors such as
 advertising expenditure, target audience segmentation, and
 advertising platform selection.
 ## Result
-> Through systematic preprocessing, model building, and evaluation, I have successfully developed a linear regression model that provides a reasonable prediction of movie ratings. The model's performance metrics demonstrate its 92% effectiveness in handling both numerical and categorical data to predict movie ratings accurately.
+> Through systematic preprocessing, model building, and evaluation, I have successfully developed a linear regression model that provides a reasonable prediction of Sales. The model's performance metrics demonstrate its 90% effectiveness in handling both numerical and categorical data to predict Sales Predictionss accurately.
 
 # Task-5
 ## Objective
